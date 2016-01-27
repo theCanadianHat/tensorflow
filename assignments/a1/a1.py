@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-import munpy as mp
+import numpy as np
 import os
 import sys
 import tarfile
